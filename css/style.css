@@ -1,0 +1,104 @@
+@import url(http://fonts.googleapis.com/css?family=Alegreya+Sans:100,300,400,500,700,100italic,300italic,400italic,500italic,700italic);
+.header1 p {
+        padding: 50px;
+        font-size: 32px;
+        font-weight: bold;
+        text-align: center;
+    height: 150px;
+      background-color: white;
+    }
+.wrapper{
+    background-color: gray;
+    margin: auto auto auto auto;
+    
+}
+.middle{
+    height: auto;
+    margin: auto auto auto auto;
+    background-color: #f2f2f2;
+}
+.WrapHeaad{
+      background-color: white;
+    height: 135px;
+}
+.bottom{
+      background-color: #E1E1E1;
+    height: 400px;
+    padding: 40px;    
+}
+.menu{
+    margin-top: 63px;
+    float :left;
+}
+.mid_top{
+    margin-top: 60px;
+    border-width: 1px;
+    text-align: center;
+    font-size: 20px;
+}
+.t1{
+    color: red;
+    float: left;
+    margin-left: 12px;
+    border-right: 1px solid black;
+}
+.headtxt{
+    float: left;
+    width: 120px;
+    margin-left: 100px;
+    border-bottom: 1px solid;
+    border-top: 1px solid;
+}
+.menuList{
+    margin: -12px auto auto 280px;
+    height:40px;
+    width: 40px;
+}
+.m1{
+    background-color: black;
+    margin-top: 75px;
+    height:4px;
+}
+.m2{
+    background-color: black;
+    margin-top: 4px;
+    height:4px;
+}
+.m3{
+    background-color: black;
+    margin-top: 4px;
+    height:4px;
+}
+.search{
+    margin: auto 90px auto 240px;
+    border-bottom: 1px solid;
+    height: 30px;
+}
+.cont{
+    margin: 30px 120px 50px 120px;
+}
+.col1{
+    font-size: 12px;
+    line-height: 22px;
+    margin-left: 20px;
+}
+.col2{
+    font-size: 12px;
+    line-height: 22px;
+    margin-left: 0px;
+}
+.col3{
+margin-right: 20px;
+}
+.address{
+    font-size: 12px;
+}
+hr{
+    border-bottom: 1px solid gray;
+}
+.text1{
+    font-size: 11px;
+}
+.links1{
+    width:140px;
+}
